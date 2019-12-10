@@ -1,0 +1,504 @@
+id,province,city,street,buildingNumber,flatNumber,zipCode
+1,mazowieckie,Warszawa,Kazury,90,null,53-969
+2,mazowieckie,Warszawa,Stryjeńskich,43,null,35-273
+3,mazowieckie,Warszawa,Marszałkowska,99,null,99-820
+4,mazowieckie,Warszawa,Kazury,89,78,40-647
+5,mazowieckie,Warszawa,Kazury,82,74,33-051
+6,mazowieckie,Warszawa,Kazury,49,36,18-884
+7,mazowieckie,Warszawa,Kazury,40,49,69-100
+8,mazowieckie,Warszawa,Kazury,21,63,58-544
+9,mazowieckie,Warszawa,Kazury,66,36,71-009
+10,mazowieckie,Warszawa,Kazury,58,21,30-974
+11,mazowieckie,Warszawa,Kazury,7,95,87-183
+12,mazowieckie,Warszawa,Kazury,16,91,78-783
+13,mazowieckie,Warszawa,Kazury,73,31,81-063
+14,mazowieckie,Warszawa,Kazury,93,8,78-381
+15,mazowieckie,Warszawa,Kazury,92,61,36-661
+16,mazowieckie,Warszawa,Kazury,96,88,00-553
+17,mazowieckie,Warszawa,Kazury,93,25,14-505
+18,mazowieckie,Warszawa,Kazury,36,36,26-507
+19,mazowieckie,Warszawa,Kazury,11,8,23-777
+20,mazowieckie,Warszawa,Kazury,77,22,57-162
+21,mazowieckie,Warszawa,Kazury,80,47,82-498
+22,mazowieckie,Warszawa,Kazury,22,6,61-971
+23,mazowieckie,Warszawa,Kazury,79,5,01-452
+24,mazowieckie,Warszawa,Kazury,41,40,91-336
+25,mazowieckie,Warszawa,Kazury,3,1,69-641
+26,mazowieckie,Warszawa,Kazury,41,55,10-255
+27,mazowieckie,Warszawa,Kazury,56,37,14-991
+28,mazowieckie,Warszawa,Kazury,18,84,97-923
+29,mazowieckie,Warszawa,Kazury,58,16,25-621
+30,mazowieckie,Warszawa,Kazury,51,42,27-582
+31,mazowieckie,Warszawa,Kazury,73,82,59-867
+32,mazowieckie,Warszawa,Kazury,59,84,84-845
+33,mazowieckie,Warszawa,Kazury,22,7,87-323
+34,mazowieckie,Warszawa,Kazury,54,51,08-901
+35,mazowieckie,Warszawa,Kazury,88,91,50-645
+36,mazowieckie,Warszawa,Kazury,25,97,36-302
+37,mazowieckie,Warszawa,Kazury,4,94,73-515
+38,mazowieckie,Warszawa,Kazury,88,44,79-995
+39,mazowieckie,Warszawa,Kazury,51,15,92-255
+40,mazowieckie,Warszawa,Kazury,90,68,89-604
+41,mazowieckie,Warszawa,Kazury,73,7,01-235
+42,mazowieckie,Warszawa,Kazury,29,24,64-271
+43,mazowieckie,Warszawa,Kazury,73,12,60-113
+44,mazowieckie,Warszawa,Kazury,51,24,79-909
+45,mazowieckie,Warszawa,Kazury,91,48,94-282
+46,mazowieckie,Warszawa,Kazury,51,19,13-730
+47,mazowieckie,Warszawa,Kazury,23,99,10-416
+48,mazowieckie,Warszawa,Kazury,71,7,97-312
+49,mazowieckie,Warszawa,Kazury,5,63,58-709
+50,mazowieckie,Warszawa,Kazury,1,9,03-480
+51,mazowieckie,Warszawa,Kazury,47,34,31-368
+52,mazowieckie,Warszawa,Kazury,29,20,65-579
+53,mazowieckie,Warszawa,Kazury,70,1,89-975
+54,mazowieckie,Warszawa,Stryjeńskich,36,77,21-846
+55,mazowieckie,Warszawa,Stryjeńskich,17,54,76-287
+56,mazowieckie,Warszawa,Stryjeńskich,81,6,17-326
+57,mazowieckie,Warszawa,Stryjeńskich,63,15,38-057
+58,mazowieckie,Warszawa,Stryjeńskich,6,54,34-878
+59,mazowieckie,Warszawa,Stryjeńskich,36,88,54-084
+60,mazowieckie,Warszawa,Stryjeńskich,21,44,70-704
+61,mazowieckie,Warszawa,Stryjeńskich,40,85,41-860
+62,mazowieckie,Warszawa,Stryjeńskich,18,70,85-298
+63,mazowieckie,Warszawa,Stryjeńskich,69,17,65-030
+64,mazowieckie,Warszawa,Stryjeńskich,51,38,60-345
+65,mazowieckie,Warszawa,Stryjeńskich,89,81,57-788
+66,mazowieckie,Warszawa,Stryjeńskich,57,83,04-197
+67,mazowieckie,Warszawa,Stryjeńskich,9,85,10-404
+68,mazowieckie,Warszawa,Stryjeńskich,27,35,50-088
+69,mazowieckie,Warszawa,Stryjeńskich,80,60,02-733
+70,mazowieckie,Warszawa,Stryjeńskich,29,20,23-941
+71,mazowieckie,Warszawa,Stryjeńskich,4,21,28-356
+72,mazowieckie,Warszawa,Stryjeńskich,7,27,31-156
+73,mazowieckie,Warszawa,Stryjeńskich,60,86,65-293
+74,mazowieckie,Warszawa,Stryjeńskich,14,25,42-385
+75,mazowieckie,Warszawa,Stryjeńskich,21,5,40-788
+76,mazowieckie,Warszawa,Stryjeńskich,24,97,83-134
+77,mazowieckie,Warszawa,Stryjeńskich,90,72,41-914
+78,mazowieckie,Warszawa,Stryjeńskich,39,1,13-362
+79,mazowieckie,Warszawa,Stryjeńskich,61,74,41-412
+80,mazowieckie,Warszawa,Stryjeńskich,56,17,18-005
+81,mazowieckie,Warszawa,Stryjeńskich,4,78,12-566
+82,mazowieckie,Warszawa,Stryjeńskich,92,76,69-091
+83,mazowieckie,Warszawa,Stryjeńskich,36,98,09-104
+84,mazowieckie,Warszawa,Stryjeńskich,97,40,13-751
+85,mazowieckie,Warszawa,Stryjeńskich,27,16,67-526
+86,mazowieckie,Warszawa,Stryjeńskich,36,16,85-649
+87,mazowieckie,Warszawa,Stryjeńskich,74,46,50-426
+88,mazowieckie,Warszawa,Stryjeńskich,30,4,38-495
+89,mazowieckie,Warszawa,Stryjeńskich,83,43,97-142
+90,mazowieckie,Warszawa,Stryjeńskich,41,48,13-193
+91,mazowieckie,Warszawa,Stryjeńskich,26,35,53-868
+92,mazowieckie,Warszawa,Stryjeńskich,98,57,84-788
+93,mazowieckie,Warszawa,Stryjeńskich,80,21,95-259
+94,mazowieckie,Warszawa,Stryjeńskich,84,99,96-551
+95,mazowieckie,Warszawa,Stryjeńskich,99,13,34-452
+96,mazowieckie,Warszawa,Stryjeńskich,96,61,77-253
+97,mazowieckie,Warszawa,Stryjeńskich,89,18,54-225
+98,mazowieckie,Warszawa,Stryjeńskich,64,93,93-757
+99,mazowieckie,Warszawa,Stryjeńskich,1,44,56-984
+100,mazowieckie,Warszawa,Stryjeńskich,87,37,53-986
+101,mazowieckie,Warszawa,Stryjeńskich,74,59,16-246
+102,mazowieckie,Warszawa,Stryjeńskich,87,8,47-829
+103,mazowieckie,Warszawa,Stryjeńskich,69,79,37-343
+104,mazowieckie,Warszawa,Marszałkowska,89,93,40-653
+105,mazowieckie,Warszawa,Marszałkowska,35,15,38-362
+106,mazowieckie,Warszawa,Marszałkowska,80,27,90-124
+107,mazowieckie,Warszawa,Marszałkowska,91,32,77-455
+108,mazowieckie,Warszawa,Marszałkowska,20,83,85-663
+109,mazowieckie,Warszawa,Marszałkowska,93,16,30-507
+110,mazowieckie,Warszawa,Marszałkowska,84,39,03-306
+111,mazowieckie,Warszawa,Marszałkowska,28,88,72-461
+112,mazowieckie,Warszawa,Marszałkowska,38,7,87-776
+113,mazowieckie,Warszawa,Marszałkowska,66,95,85-269
+114,mazowieckie,Warszawa,Marszałkowska,65,22,21-983
+115,mazowieckie,Warszawa,Marszałkowska,94,62,29-613
+116,mazowieckie,Warszawa,Marszałkowska,18,50,09-437
+117,mazowieckie,Warszawa,Marszałkowska,64,40,44-505
+118,mazowieckie,Warszawa,Marszałkowska,22,62,75-992
+119,mazowieckie,Warszawa,Marszałkowska,97,72,63-481
+120,mazowieckie,Warszawa,Marszałkowska,92,71,62-291
+121,mazowieckie,Warszawa,Marszałkowska,65,8,88-561
+122,mazowieckie,Warszawa,Marszałkowska,76,27,76-555
+123,mazowieckie,Warszawa,Marszałkowska,43,71,70-997
+124,mazowieckie,Warszawa,Marszałkowska,85,57,94-743
+125,mazowieckie,Warszawa,Marszałkowska,63,89,28-140
+126,mazowieckie,Warszawa,Marszałkowska,34,48,85-818
+127,mazowieckie,Warszawa,Marszałkowska,63,6,85-309
+128,mazowieckie,Warszawa,Marszałkowska,79,7,01-071
+129,mazowieckie,Warszawa,Marszałkowska,44,78,69-586
+130,mazowieckie,Warszawa,Marszałkowska,70,58,40-254
+131,mazowieckie,Warszawa,Marszałkowska,75,38,45-771
+132,mazowieckie,Warszawa,Marszałkowska,82,43,27-977
+133,mazowieckie,Warszawa,Marszałkowska,48,74,63-514
+134,mazowieckie,Warszawa,Marszałkowska,57,96,46-768
+135,mazowieckie,Warszawa,Marszałkowska,8,74,43-593
+136,mazowieckie,Warszawa,Marszałkowska,6,77,89-185
+137,mazowieckie,Warszawa,Marszałkowska,86,46,63-701
+138,mazowieckie,Warszawa,Marszałkowska,14,96,95-506
+139,mazowieckie,Warszawa,Marszałkowska,38,40,65-748
+140,mazowieckie,Warszawa,Marszałkowska,71,2,23-450
+141,mazowieckie,Warszawa,Marszałkowska,59,91,22-418
+142,mazowieckie,Warszawa,Marszałkowska,65,69,02-951
+143,mazowieckie,Warszawa,Marszałkowska,94,57,95-549
+144,mazowieckie,Warszawa,Marszałkowska,7,44,38-311
+145,mazowieckie,Warszawa,Marszałkowska,60,26,54-420
+146,mazowieckie,Warszawa,Marszałkowska,52,96,40-894
+147,mazowieckie,Warszawa,Marszałkowska,32,8,53-318
+148,mazowieckie,Warszawa,Marszałkowska,74,55,54-895
+149,mazowieckie,Warszawa,Marszałkowska,99,1,28-658
+150,mazowieckie,Warszawa,Marszałkowska,70,53,98-634
+151,mazowieckie,Warszawa,Marszałkowska,68,52,41-921
+152,mazowieckie,Warszawa,Marszałkowska,56,79,17-525
+153,mazowieckie,Warszawa,Marszałkowska,83,28,03-254
+154,mazowieckie,Warszawa,Złota,85,62,34-691
+155,mazowieckie,Warszawa,Złota,49,17,79-700
+156,mazowieckie,Warszawa,Złota,69,30,57-775
+157,mazowieckie,Warszawa,Złota,81,94,13-937
+158,mazowieckie,Warszawa,Złota,95,99,77-757
+159,mazowieckie,Warszawa,Złota,43,51,20-111
+160,mazowieckie,Warszawa,Złota,34,14,62-170
+161,mazowieckie,Warszawa,Złota,3,69,37-361
+162,mazowieckie,Warszawa,Złota,96,38,52-265
+163,mazowieckie,Warszawa,Złota,51,50,28-448
+164,mazowieckie,Warszawa,Złota,3,28,14-323
+165,mazowieckie,Warszawa,Złota,97,43,13-501
+166,mazowieckie,Warszawa,Złota,88,73,67-563
+167,mazowieckie,Warszawa,Złota,41,96,60-311
+168,mazowieckie,Warszawa,Złota,69,50,89-272
+169,mazowieckie,Warszawa,Złota,84,37,12-268
+170,mazowieckie,Warszawa,Złota,76,41,55-116
+171,mazowieckie,Warszawa,Złota,52,50,91-435
+172,mazowieckie,Warszawa,Złota,42,46,12-355
+173,mazowieckie,Warszawa,Złota,76,61,92-609
+174,mazowieckie,Warszawa,Złota,97,56,15-322
+175,mazowieckie,Warszawa,Złota,56,44,26-139
+176,mazowieckie,Warszawa,Złota,63,81,30-213
+177,mazowieckie,Warszawa,Złota,55,74,01-303
+178,mazowieckie,Warszawa,Złota,76,97,86-886
+179,mazowieckie,Warszawa,Złota,53,66,00-371
+180,mazowieckie,Warszawa,Złota,83,69,05-836
+181,mazowieckie,Warszawa,Złota,44,14,53-156
+182,mazowieckie,Warszawa,Złota,64,6,64-358
+183,mazowieckie,Warszawa,Złota,53,30,77-782
+184,mazowieckie,Warszawa,Złota,17,41,85-802
+185,mazowieckie,Warszawa,Złota,7,24,47-872
+186,mazowieckie,Warszawa,Złota,45,75,08-400
+187,mazowieckie,Warszawa,Złota,99,50,23-845
+188,mazowieckie,Warszawa,Złota,60,93,86-516
+189,mazowieckie,Warszawa,Złota,78,16,83-146
+190,mazowieckie,Warszawa,Złota,9,80,47-932
+191,mazowieckie,Warszawa,Złota,52,68,69-124
+192,mazowieckie,Warszawa,Złota,11,7,52-917
+193,mazowieckie,Warszawa,Złota,55,63,16-555
+194,mazowieckie,Warszawa,Złota,32,17,48-856
+195,mazowieckie,Warszawa,Złota,67,92,05-141
+196,mazowieckie,Warszawa,Złota,24,53,39-998
+197,mazowieckie,Warszawa,Złota,29,63,59-161
+198,mazowieckie,Warszawa,Złota,6,83,72-702
+199,mazowieckie,Warszawa,Złota,52,99,61-464
+200,mazowieckie,Warszawa,Złota,58,20,36-738
+201,mazowieckie,Warszawa,Złota,33,77,87-788
+202,mazowieckie,Warszawa,Złota,25,54,80-842
+203,mazowieckie,Warszawa,Złota,52,48,56-523
+204,mazowieckie,Warszawa,Kupiecka,15,90,71-707
+205,mazowieckie,Warszawa,Kupiecka,33,74,45-662
+206,mazowieckie,Warszawa,Kupiecka,52,32,13-624
+207,mazowieckie,Warszawa,Kupiecka,10,93,24-704
+208,mazowieckie,Warszawa,Kupiecka,80,72,44-696
+209,mazowieckie,Warszawa,Kupiecka,33,30,89-212
+210,mazowieckie,Warszawa,Kupiecka,38,37,69-509
+211,mazowieckie,Warszawa,Kupiecka,78,65,34-261
+212,mazowieckie,Warszawa,Kupiecka,13,87,84-422
+213,mazowieckie,Warszawa,Kupiecka,55,42,20-197
+214,mazowieckie,Warszawa,Kupiecka,28,11,94-606
+215,mazowieckie,Warszawa,Kupiecka,1,55,23-519
+216,mazowieckie,Warszawa,Kupiecka,85,3,67-991
+217,mazowieckie,Warszawa,Kupiecka,5,93,26-176
+218,mazowieckie,Warszawa,Kupiecka,94,63,78-484
+219,mazowieckie,Warszawa,Kupiecka,46,43,08-135
+220,mazowieckie,Warszawa,Kupiecka,44,20,05-628
+221,mazowieckie,Warszawa,Kupiecka,17,56,95-120
+222,mazowieckie,Warszawa,Kupiecka,47,62,01-960
+223,mazowieckie,Warszawa,Kupiecka,57,28,58-238
+224,mazowieckie,Warszawa,Kupiecka,8,44,60-207
+225,mazowieckie,Warszawa,Kupiecka,16,15,33-878
+226,mazowieckie,Warszawa,Kupiecka,12,74,06-668
+227,mazowieckie,Warszawa,Kupiecka,26,16,78-176
+228,mazowieckie,Warszawa,Kupiecka,80,37,86-782
+229,mazowieckie,Warszawa,Kupiecka,25,33,34-254
+230,mazowieckie,Warszawa,Kupiecka,37,54,74-797
+231,mazowieckie,Warszawa,Kupiecka,33,28,15-977
+232,mazowieckie,Warszawa,Kupiecka,48,70,78-392
+233,mazowieckie,Warszawa,Kupiecka,14,59,35-170
+234,mazowieckie,Warszawa,Kupiecka,32,54,01-981
+235,mazowieckie,Warszawa,Kupiecka,80,49,77-071
+236,mazowieckie,Warszawa,Kupiecka,57,55,24-249
+237,mazowieckie,Warszawa,Kupiecka,9,80,39-105
+238,mazowieckie,Warszawa,Kupiecka,23,58,27-336
+239,mazowieckie,Warszawa,Kupiecka,26,74,36-863
+240,mazowieckie,Warszawa,Kupiecka,56,97,18-230
+241,mazowieckie,Warszawa,Kupiecka,10,51,12-857
+242,mazowieckie,Warszawa,Kupiecka,45,64,69-576
+243,mazowieckie,Warszawa,Kupiecka,53,29,76-191
+244,mazowieckie,Warszawa,Kupiecka,64,41,02-314
+245,mazowieckie,Warszawa,Kupiecka,58,82,39-264
+246,mazowieckie,Warszawa,Kupiecka,9,31,44-348
+247,mazowieckie,Warszawa,Kupiecka,77,99,40-068
+248,mazowieckie,Warszawa,Kupiecka,56,33,44-904
+249,mazowieckie,Warszawa,Kupiecka,8,29,22-600
+250,mazowieckie,Warszawa,Kupiecka,4,16,48-638
+251,mazowieckie,Warszawa,Kupiecka,43,17,69-531
+252,mazowieckie,Warszawa,Kupiecka,78,58,78-748
+253,mazowieckie,Warszawa,Kupiecka,12,8,74-726
+254,mazowieckie,Warszawa,Długa,84,71,84-648
+255,mazowieckie,Warszawa,Długa,25,95,00-850
+256,mazowieckie,Warszawa,Długa,73,41,19-729
+257,mazowieckie,Warszawa,Długa,26,80,73-801
+258,mazowieckie,Warszawa,Długa,68,61,56-635
+259,mazowieckie,Warszawa,Długa,12,92,13-152
+260,mazowieckie,Warszawa,Długa,39,81,90-314
+261,mazowieckie,Warszawa,Długa,94,62,14-178
+262,mazowieckie,Warszawa,Długa,57,55,96-084
+263,mazowieckie,Warszawa,Długa,87,8,01-036
+264,mazowieckie,Warszawa,Długa,16,72,97-164
+265,mazowieckie,Warszawa,Długa,44,96,50-647
+266,mazowieckie,Warszawa,Długa,44,26,06-794
+267,mazowieckie,Warszawa,Długa,11,1,89-203
+268,mazowieckie,Warszawa,Długa,28,94,73-614
+269,mazowieckie,Warszawa,Długa,10,36,21-459
+270,mazowieckie,Warszawa,Długa,15,32,70-859
+271,mazowieckie,Warszawa,Długa,15,74,92-678
+272,mazowieckie,Warszawa,Długa,12,87,34-069
+273,mazowieckie,Warszawa,Długa,10,84,09-618
+274,mazowieckie,Warszawa,Długa,43,67,82-829
+275,mazowieckie,Warszawa,Długa,83,14,17-482
+276,mazowieckie,Warszawa,Długa,23,70,05-988
+277,mazowieckie,Warszawa,Długa,9,49,13-960
+278,mazowieckie,Warszawa,Długa,41,34,25-666
+279,mazowieckie,Warszawa,Długa,5,25,70-286
+280,mazowieckie,Warszawa,Długa,15,52,19-625
+281,mazowieckie,Warszawa,Długa,38,44,96-882
+282,mazowieckie,Warszawa,Długa,97,96,66-422
+283,mazowieckie,Warszawa,Długa,92,33,73-526
+284,mazowieckie,Warszawa,Długa,18,95,56-033
+285,mazowieckie,Warszawa,Długa,51,55,77-697
+286,mazowieckie,Warszawa,Długa,45,30,10-101
+287,mazowieckie,Warszawa,Długa,65,23,88-978
+288,mazowieckie,Warszawa,Długa,53,37,41-498
+289,mazowieckie,Warszawa,Długa,71,57,33-185
+290,mazowieckie,Warszawa,Długa,53,33,78-229
+291,mazowieckie,Warszawa,Długa,38,89,18-438
+292,mazowieckie,Warszawa,Długa,13,5,27-884
+293,mazowieckie,Warszawa,Długa,25,10,75-441
+294,mazowieckie,Warszawa,Długa,53,45,94-437
+295,mazowieckie,Warszawa,Długa,29,5,59-632
+296,mazowieckie,Warszawa,Długa,50,82,26-234
+297,mazowieckie,Warszawa,Długa,94,44,14-424
+298,mazowieckie,Warszawa,Długa,39,31,25-899
+299,mazowieckie,Warszawa,Długa,76,91,97-543
+300,mazowieckie,Warszawa,Długa,46,69,06-366
+301,mazowieckie,Warszawa,Długa,23,30,43-063
+302,mazowieckie,Warszawa,Długa,12,10,17-692
+303,mazowieckie,Warszawa,Długa,18,44,16-224
+304,mazowieckie,Warszawa,Zamkowa,90,13,93-143
+305,mazowieckie,Warszawa,Zamkowa,22,43,48-736
+306,mazowieckie,Warszawa,Zamkowa,55,91,07-868
+307,mazowieckie,Warszawa,Zamkowa,15,42,65-993
+308,mazowieckie,Warszawa,Zamkowa,23,67,35-610
+309,mazowieckie,Warszawa,Zamkowa,62,52,02-842
+310,mazowieckie,Warszawa,Zamkowa,3,83,88-698
+311,mazowieckie,Warszawa,Zamkowa,57,86,36-543
+312,mazowieckie,Warszawa,Zamkowa,64,71,48-238
+313,mazowieckie,Warszawa,Zamkowa,54,32,22-090
+314,mazowieckie,Warszawa,Zamkowa,95,17,38-963
+315,mazowieckie,Warszawa,Zamkowa,99,79,89-060
+316,mazowieckie,Warszawa,Zamkowa,84,29,92-885
+317,mazowieckie,Warszawa,Zamkowa,48,95,68-629
+318,mazowieckie,Warszawa,Zamkowa,3,11,57-835
+319,mazowieckie,Warszawa,Zamkowa,94,68,68-363
+320,mazowieckie,Warszawa,Zamkowa,64,3,59-687
+321,mazowieckie,Warszawa,Zamkowa,21,67,00-456
+322,mazowieckie,Warszawa,Zamkowa,16,90,19-923
+323,mazowieckie,Warszawa,Zamkowa,41,80,99-089
+324,mazowieckie,Warszawa,Zamkowa,20,42,83-596
+325,mazowieckie,Warszawa,Zamkowa,98,91,70-645
+326,mazowieckie,Warszawa,Zamkowa,25,81,16-143
+327,mazowieckie,Warszawa,Zamkowa,43,26,47-762
+328,mazowieckie,Warszawa,Zamkowa,51,74,62-154
+329,mazowieckie,Warszawa,Zamkowa,29,6,08-995
+330,mazowieckie,Warszawa,Zamkowa,86,36,95-459
+331,mazowieckie,Warszawa,Zamkowa,80,30,73-687
+332,mazowieckie,Warszawa,Zamkowa,84,96,14-262
+333,mazowieckie,Warszawa,Zamkowa,53,5,62-795
+334,mazowieckie,Warszawa,Zamkowa,42,68,74-857
+335,mazowieckie,Warszawa,Zamkowa,74,1,83-633
+336,mazowieckie,Warszawa,Zamkowa,13,73,59-590
+337,mazowieckie,Warszawa,Zamkowa,93,11,29-747
+338,mazowieckie,Warszawa,Zamkowa,87,28,42-145
+339,mazowieckie,Warszawa,Zamkowa,17,33,02-129
+340,mazowieckie,Warszawa,Zamkowa,54,92,91-086
+341,mazowieckie,Warszawa,Zamkowa,2,98,02-126
+342,mazowieckie,Warszawa,Zamkowa,90,73,71-649
+343,mazowieckie,Warszawa,Zamkowa,1,67,87-605
+344,mazowieckie,Warszawa,Zamkowa,53,52,71-328
+345,mazowieckie,Warszawa,Zamkowa,62,73,45-215
+346,mazowieckie,Warszawa,Zamkowa,84,75,44-857
+347,mazowieckie,Warszawa,Zamkowa,28,30,73-480
+348,mazowieckie,Warszawa,Zamkowa,14,30,77-066
+349,mazowieckie,Warszawa,Zamkowa,69,83,73-319
+350,mazowieckie,Warszawa,Zamkowa,52,17,80-230
+351,mazowieckie,Warszawa,Zamkowa,46,4,11-358
+352,mazowieckie,Warszawa,Zamkowa,33,87,89-415
+353,mazowieckie,Warszawa,Zamkowa,5,11,57-454
+354,mazowieckie,Warszawa,Komisji Edukacji Narodowej,43,46,07-143
+355,mazowieckie,Warszawa,Komisji Edukacji Narodowej,57,5,91-594
+356,mazowieckie,Warszawa,Komisji Edukacji Narodowej,31,50,28-279
+357,mazowieckie,Warszawa,Komisji Edukacji Narodowej,62,95,69-123
+358,mazowieckie,Warszawa,Komisji Edukacji Narodowej,42,56,12-105
+359,mazowieckie,Warszawa,Komisji Edukacji Narodowej,71,44,80-380
+360,mazowieckie,Warszawa,Komisji Edukacji Narodowej,52,86,78-549
+361,mazowieckie,Warszawa,Komisji Edukacji Narodowej,22,28,08-268
+362,mazowieckie,Warszawa,Komisji Edukacji Narodowej,65,69,16-975
+363,mazowieckie,Warszawa,Komisji Edukacji Narodowej,91,28,25-115
+364,mazowieckie,Warszawa,Komisji Edukacji Narodowej,74,90,74-812
+365,mazowieckie,Warszawa,Komisji Edukacji Narodowej,43,88,19-560
+366,mazowieckie,Warszawa,Komisji Edukacji Narodowej,80,81,23-035
+367,mazowieckie,Warszawa,Komisji Edukacji Narodowej,3,38,64-064
+368,mazowieckie,Warszawa,Komisji Edukacji Narodowej,39,58,27-224
+369,mazowieckie,Warszawa,Komisji Edukacji Narodowej,70,59,62-553
+370,mazowieckie,Warszawa,Komisji Edukacji Narodowej,83,34,36-221
+371,mazowieckie,Warszawa,Komisji Edukacji Narodowej,86,64,43-145
+372,mazowieckie,Warszawa,Komisji Edukacji Narodowej,98,28,31-570
+373,mazowieckie,Warszawa,Komisji Edukacji Narodowej,72,91,30-273
+374,mazowieckie,Warszawa,Komisji Edukacji Narodowej,77,57,97-683
+375,mazowieckie,Warszawa,Komisji Edukacji Narodowej,3,65,68-449
+376,mazowieckie,Warszawa,Komisji Edukacji Narodowej,42,89,31-873
+377,mazowieckie,Warszawa,Komisji Edukacji Narodowej,25,30,64-301
+378,mazowieckie,Warszawa,Komisji Edukacji Narodowej,53,4,23-039
+379,mazowieckie,Warszawa,Komisji Edukacji Narodowej,39,21,28-260
+380,mazowieckie,Warszawa,Komisji Edukacji Narodowej,99,80,84-328
+381,mazowieckie,Warszawa,Komisji Edukacji Narodowej,54,15,00-624
+382,mazowieckie,Warszawa,Komisji Edukacji Narodowej,65,23,01-255
+383,mazowieckie,Warszawa,Komisji Edukacji Narodowej,53,76,08-554
+384,mazowieckie,Warszawa,Komisji Edukacji Narodowej,38,55,61-456
+385,mazowieckie,Warszawa,Komisji Edukacji Narodowej,78,50,29-812
+386,mazowieckie,Warszawa,Komisji Edukacji Narodowej,95,84,98-581
+387,mazowieckie,Warszawa,Komisji Edukacji Narodowej,16,71,96-250
+388,mazowieckie,Warszawa,Komisji Edukacji Narodowej,99,36,58-199
+389,mazowieckie,Warszawa,Komisji Edukacji Narodowej,80,11,90-121
+390,mazowieckie,Warszawa,Komisji Edukacji Narodowej,35,54,89-518
+391,mazowieckie,Warszawa,Komisji Edukacji Narodowej,63,1,27-379
+392,mazowieckie,Warszawa,Komisji Edukacji Narodowej,71,90,92-882
+393,mazowieckie,Warszawa,Komisji Edukacji Narodowej,43,6,69-835
+394,mazowieckie,Warszawa,Komisji Edukacji Narodowej,34,48,83-587
+395,mazowieckie,Warszawa,Komisji Edukacji Narodowej,5,64,56-414
+396,mazowieckie,Warszawa,Komisji Edukacji Narodowej,82,74,05-662
+397,mazowieckie,Warszawa,Komisji Edukacji Narodowej,8,34,79-472
+398,mazowieckie,Warszawa,Komisji Edukacji Narodowej,49,29,81-608
+399,mazowieckie,Warszawa,Komisji Edukacji Narodowej,13,19,66-971
+400,mazowieckie,Warszawa,Komisji Edukacji Narodowej,90,28,11-418
+401,mazowieckie,Warszawa,Komisji Edukacji Narodowej,89,29,24-467
+402,mazowieckie,Warszawa,Komisji Edukacji Narodowej,87,40,46-048
+403,mazowieckie,Warszawa,Komisji Edukacji Narodowej,98,90,43-873
+404,mazowieckie,Warszawa,Puławska,30,3,81-812
+405,mazowieckie,Warszawa,Puławska,64,94,64-192
+406,mazowieckie,Warszawa,Puławska,43,3,13-295
+407,mazowieckie,Warszawa,Puławska,21,20,40-027
+408,mazowieckie,Warszawa,Puławska,19,82,98-677
+409,mazowieckie,Warszawa,Puławska,50,54,87-691
+410,mazowieckie,Warszawa,Puławska,96,79,87-419
+411,mazowieckie,Warszawa,Puławska,56,11,60-648
+412,mazowieckie,Warszawa,Puławska,25,55,69-648
+413,mazowieckie,Warszawa,Puławska,71,22,47-269
+414,mazowieckie,Warszawa,Puławska,59,21,67-393
+415,mazowieckie,Warszawa,Puławska,67,39,15-519
+416,mazowieckie,Warszawa,Puławska,77,39,71-520
+417,mazowieckie,Warszawa,Puławska,82,79,99-344
+418,mazowieckie,Warszawa,Puławska,79,52,78-971
+419,mazowieckie,Warszawa,Puławska,82,22,48-363
+420,mazowieckie,Warszawa,Puławska,83,47,81-457
+421,mazowieckie,Warszawa,Puławska,74,68,77-198
+422,mazowieckie,Warszawa,Puławska,9,15,65-043
+423,mazowieckie,Warszawa,Puławska,22,9,82-424
+424,mazowieckie,Warszawa,Puławska,63,13,44-358
+425,mazowieckie,Warszawa,Puławska,74,57,14-641
+426,mazowieckie,Warszawa,Puławska,27,28,41-015
+427,mazowieckie,Warszawa,Puławska,33,60,95-907
+428,mazowieckie,Warszawa,Puławska,93,39,46-635
+429,mazowieckie,Warszawa,Puławska,42,50,29-331
+430,mazowieckie,Warszawa,Puławska,34,17,40-707
+431,mazowieckie,Warszawa,Puławska,26,26,44-538
+432,mazowieckie,Warszawa,Puławska,65,77,67-690
+433,mazowieckie,Warszawa,Puławska,58,27,51-274
+434,mazowieckie,Warszawa,Puławska,62,74,17-540
+435,mazowieckie,Warszawa,Puławska,26,28,46-030
+436,mazowieckie,Warszawa,Puławska,65,83,87-630
+437,mazowieckie,Warszawa,Puławska,96,70,60-591
+438,mazowieckie,Warszawa,Puławska,87,41,62-097
+439,mazowieckie,Warszawa,Puławska,20,53,57-130
+440,mazowieckie,Warszawa,Puławska,54,19,94-773
+441,mazowieckie,Warszawa,Puławska,38,87,31-737
+442,mazowieckie,Warszawa,Puławska,73,1,29-568
+443,mazowieckie,Warszawa,Puławska,51,3,71-149
+444,mazowieckie,Warszawa,Puławska,92,90,26-500
+445,mazowieckie,Warszawa,Puławska,73,92,13-141
+446,mazowieckie,Warszawa,Puławska,54,53,83-785
+447,mazowieckie,Warszawa,Puławska,37,54,67-861
+448,mazowieckie,Warszawa,Puławska,68,4,72-897
+449,mazowieckie,Warszawa,Puławska,10,95,92-779
+450,mazowieckie,Warszawa,Puławska,99,20,10-386
+451,mazowieckie,Warszawa,Puławska,96,16,09-404
+452,mazowieckie,Warszawa,Puławska,77,82,78-972
+453,mazowieckie,Warszawa,Puławska,15,50,87-336
+454,mazowieckie,Warszawa,Lanciego,45,75,82-517
+455,mazowieckie,Warszawa,Lanciego,88,39,15-368
+456,mazowieckie,Warszawa,Lanciego,89,19,47-488
+457,mazowieckie,Warszawa,Lanciego,39,25,18-377
+458,mazowieckie,Warszawa,Lanciego,86,25,09-578
+459,mazowieckie,Warszawa,Lanciego,30,61,37-852
+460,mazowieckie,Warszawa,Lanciego,45,99,90-393
+461,mazowieckie,Warszawa,Lanciego,63,3,97-245
+462,mazowieckie,Warszawa,Lanciego,99,51,63-430
+463,mazowieckie,Warszawa,Lanciego,29,82,56-658
+464,mazowieckie,Warszawa,Lanciego,7,25,87-783
+465,mazowieckie,Warszawa,Lanciego,45,1,45-918
+466,mazowieckie,Warszawa,Lanciego,6,18,51-288
+467,mazowieckie,Warszawa,Lanciego,98,96,86-584
+468,mazowieckie,Warszawa,Lanciego,59,98,09-005
+469,mazowieckie,Warszawa,Lanciego,5,87,30-801
+470,mazowieckie,Warszawa,Lanciego,18,29,02-121
+471,mazowieckie,Warszawa,Lanciego,62,84,76-431
+472,mazowieckie,Warszawa,Lanciego,43,7,46-275
+473,mazowieckie,Warszawa,Lanciego,1,23,65-884
+474,mazowieckie,Warszawa,Lanciego,69,84,71-599
+475,mazowieckie,Warszawa,Lanciego,80,14,01-940
+476,mazowieckie,Warszawa,Lanciego,22,35,23-705
+477,mazowieckie,Warszawa,Lanciego,95,38,73-741
+478,mazowieckie,Warszawa,Lanciego,16,67,89-218
+479,mazowieckie,Warszawa,Lanciego,50,6,76-931
+480,mazowieckie,Warszawa,Lanciego,57,25,29-946
+481,mazowieckie,Warszawa,Lanciego,74,45,21-050
+482,mazowieckie,Warszawa,Lanciego,1,91,81-778
+483,mazowieckie,Warszawa,Lanciego,47,25,44-060
+484,mazowieckie,Warszawa,Lanciego,44,95,89-515
+485,mazowieckie,Warszawa,Lanciego,87,75,12-315
+486,mazowieckie,Warszawa,Lanciego,61,10,20-221
+487,mazowieckie,Warszawa,Lanciego,19,72,19-755
+488,mazowieckie,Warszawa,Lanciego,80,82,47-695
+489,mazowieckie,Warszawa,Lanciego,73,70,96-696
+490,mazowieckie,Warszawa,Lanciego,62,50,19-032
+491,mazowieckie,Warszawa,Lanciego,37,29,89-831
+492,mazowieckie,Warszawa,Lanciego,92,94,91-121
+493,mazowieckie,Warszawa,Lanciego,49,14,78-309
+494,mazowieckie,Warszawa,Lanciego,56,70,02-544
+495,mazowieckie,Warszawa,Lanciego,5,65,66-235
+496,mazowieckie,Warszawa,Lanciego,57,12,52-107
+497,mazowieckie,Warszawa,Lanciego,34,87,66-028
+498,mazowieckie,Warszawa,Lanciego,16,57,38-774
+499,mazowieckie,Warszawa,Lanciego,85,54,77-703
+500,mazowieckie,Warszawa,Lanciego,89,47,78-781
+501,mazowieckie,Warszawa,Lanciego,94,53,88-482
+502,mazowieckie,Warszawa,Lanciego,30,94,32-276
+503,mazowieckie,Warszawa,Lanciego,75,73,46-809

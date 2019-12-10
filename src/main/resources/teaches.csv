@@ -1,0 +1,77 @@
+id,teacherId,groupId,subject,hours
+1,1,22,Ekonomia,14
+2,1,26,Ekonomia,30
+3,1,35,Ekonomia,30
+4,2,25,Etyka,10
+5,2,32,Etyka,16
+6,3,21,Filozofia,14
+7,3,0,Filozofia,24
+8,4,10,Fizyka,56
+9,4,4,Fizyka,54
+10,5,17,Analiza matematyczna,54
+11,5,22,Analiza matematyczna,52
+12,5,16,Analiza matematyczna,40
+13,6,24,Fizyka,18
+14,6,23,Fizyka,52
+15,7,2,Ekonomia,16
+16,7,10,Ekonomia,54
+17,8,3,Fizyka,28
+18,8,12,Fizyka,56
+19,8,19,Fizyka,20
+20,9,7,Fizyka,34
+21,9,22,Fizyka,24
+22,10,5,Filozofia,60
+23,10,30,Filozofia,48
+24,11,33,Ekonomia,42
+25,11,21,Ekonomia,34
+26,11,17,Ekonomia,52
+27,12,34,Filozofia,12
+28,12,20,Filozofia,42
+29,12,31,Filozofia,10
+30,13,1,Fizyka,24
+31,13,18,Fizyka,34
+32,13,15,Fizyka,56
+33,14,7,Analiza matematyczna,14
+34,14,6,Analiza matematyczna,42
+35,15,35,Filozofia,44
+36,16,21,Filozofia,46
+37,17,5,Filozofia,56
+38,17,31,Filozofia,48
+39,17,27,Filozofia,12
+40,18,14,Ekonomia,24
+41,18,26,Ekonomia,12
+42,18,26,Ekonomia,20
+43,19,21,Fizyka,38
+44,19,25,Fizyka,50
+45,20,2,Filozofia,40
+46,20,28,Filozofia,14
+47,20,24,Filozofia,18
+48,21,6,Filozofia,30
+49,21,17,Filozofia,46
+50,22,22,Etyka,10
+51,22,28,Etyka,18
+52,22,23,Etyka,34
+53,23,19,Ekonomia,36
+54,23,7,Ekonomia,28
+55,24,32,Fizyka,10
+56,25,35,Analiza matematyczna,48
+57,26,8,Ekonomia,42
+58,27,3,Analiza matematyczna,42
+59,28,22,Ekonomia,20
+60,29,29,Etyka,56
+61,30,34,Analiza matematyczna,28
+62,30,16,Analiza matematyczna,48
+63,31,22,Analiza matematyczna,54
+64,31,2,Analiza matematyczna,44
+65,32,31,Etyka,30
+66,32,35,Etyka,18
+67,32,20,Etyka,28
+68,33,34,Analiza matematyczna,22
+69,33,5,Analiza matematyczna,16
+70,33,7,Analiza matematyczna,28
+71,34,0,Ekonomia,24
+72,35,17,Ekonomia,54
+73,35,1,Ekonomia,36
+74,35,32,Ekonomia,18
+75,36,12,Filozofia,44
+76,36,4,Filozofia,42
